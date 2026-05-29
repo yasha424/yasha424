@@ -4,7 +4,7 @@ iOS Developer
 -------------
 * 🌍  I'm based in Kyiv
 * ✉️  You can contact me at [jakob20022404@gmail.com](mailto:jakob20022404@gmail.com)
-* 🚀  I'm currently working on [Chess iOS app named Chessy](http://github.com/yasha424/Chessy)
+* 🚀  Some of my projects are: [Chess iOS app named Chessy](http://github.com/yasha424/Chessy)
 
 ### Skills
 
